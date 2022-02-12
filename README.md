@@ -2,7 +2,9 @@
 ##
 Sou desenvolvedor Front-End;<br>
 Framework que ultilizo é o React.JS;<br>
-Estou estudando React Native;<br>
+Estou estudando:
+React Native;<br>
+Node js;<br>
 E sou apaixonado por tecnologia; 
 
 ##
