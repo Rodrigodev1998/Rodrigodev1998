@@ -1,8 +1,8 @@
 ✌ Ola, eu me chamo Rodrigo Ferreira
 ##
 Sou desenvolvedor Front-End;<br>
-Framework que ultilizo é o Angular CLI;<br>
-Estou estudando TypeScript;<br>
+Framework que ultilizo é o React.JS;<br>
+Estou estudando React Native;<br>
 E sou apaixonado por tecnologia; 
 
 ##
@@ -18,12 +18,11 @@ E sou apaixonado por tecnologia;
   <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="250" height="160"/>
-    
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   ##
-  <h3>O meu Framework é o</h3><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" padding = "10" height="25"/>
+  
   
  ##
   
