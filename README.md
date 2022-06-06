@@ -1,7 +1,7 @@
 ✌ Ola, eu me chamo Rodrigo Ferreira
 ##
 Sou desenvolvedor java;<br>
-Framework que ultilizo é o Spring;<br>
+Framework que ultilizo é o Spring boot;<br>
 E sou apaixonado por tecnologia; 
 
 ##
