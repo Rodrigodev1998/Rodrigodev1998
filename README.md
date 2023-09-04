@@ -1,26 +1,17 @@
-✌ Ola, eu me chamo Rodrigo Ferreira
-##
-Sou desenvolvedor java;<br>
-Framework que ultilizo é o Spring boot;<br>
-E sou apaixonado por tecnologia; 
+# Rodrigo Souza
+
+- 🔭 Sou Dessenvolvedor de software. 
+- 🌱 Desenvolvo APIs desde 2019.
 
 ##
-
-<div align="center">
-  <a href="https://github.com/Rodrigodev1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigodev1998&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigodev1998&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Danilo-Jv" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Danilo-Git" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="Danilo-spring" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Danilo-postgresql" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="Danilo-mongodb" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  
 </div>
- 
-  ##
-  
-  
- ##
-  
-  <div>
-    <h3>Redes Sociais</h3>  
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-  </div>
